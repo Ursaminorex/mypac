@@ -3303,7 +3303,7 @@ var rules = [
 	".git.io",
 	"||git.io",
 	"|http://softwaredownload.gitbooks.io",
-	"github.com/getlantern",
+	"github.com",
 	"|https://gist.github.com",
 	"http://cthlo.github.io/hktv",
 	"hahaxixi.github.io",
