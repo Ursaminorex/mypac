@@ -1,2 +1,2 @@
 # mypac
-The pac.txt of shadowsocksR.
+My pac.txt of shadowsocksR.
